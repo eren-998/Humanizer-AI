@@ -64,10 +64,4 @@ The agent relies on clean, structured input for maximum effect.
 | **AUDIENCE** | Who is the final reader? (e.g., Manager, Students, Friends). | `General Public` | `Business Stakeholders` |
 | **LANGUAGE** | Output language (e.g., English). | `English` | `English` |
 
-### Example Prompt (Sarcastic Roast)
-`Role: You are a witty, sarcastic writer who critiques corporate speak. Task: Rewrite this paragraph about "synergy" and "paradigm shifts" to playfully mock the original text while conveying its basic meaning. Constraints: Use dry humor and a subtly critical tone. Highlight the absurdity of the original phrasing.`
-
-**Input Example:**
-`To foster holistic growth, we must strategically pivot our initiatives to achieve scalable synergy, enabling us to democratize access to innovative solutions for all stakeholders.`
-
-**Expected Output:**
+**:)**
