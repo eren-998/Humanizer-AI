@@ -2,12 +2,12 @@
 
 ## Anti-Jargon Agent Powered by Gemini & n8n
 
-[![Mulerun Agent Status](https://img.shields.io/badge/Status-LIVE%20on%20Mulerun-B84AFF?style=for-the-badge)](https://mulerun.com/@Eren_kaif/the-humanizer)
+[![Mulerun Agent Status](https://img.shields.io/badge/Status-LIVE%20on%20Mulerun-B84AFF?style=for-the-badge)](https://mulerun.com/@Kaif-Qureshi/the-humanizer)
 [![LLM Backend](https://img.shields.io/badge/Model-Gemini%202.5%20Flash-0069B5?style=for-the-badge)](https://ai.google.dev/models/gemini)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 ### 🔗 Product Link
-Use the agent directly on the Mulerun Marketplace: **[The Humanizer 🧑‍💻](https://mulerun.com/@Eren_kaif/the-humanizer)**
+Use the agent directly on the Mulerun Marketplace: **[The Humanizer 🧑‍💻](https://mulerun.com/@kaif-Qureshi/the-humanizer)**
 
 ---
 
